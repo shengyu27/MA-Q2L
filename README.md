@@ -93,7 +93,7 @@ python calculate_results.py --split val --score_path /path/to/infer --gt_path /p
 | Modelname     | F1-score(%) | F2-score(%) | link(Google drive) | 
 |---------------|-------------|-------------|------------| 
 | MA-Q2L-0.0625 | 89.56       | 67.03       | coming     |
-| MA-Q2L-1      | 92.58       | 73.15       | coming     |
+| MA-Q2L-1      | 92.58       | 73.15       | coming     
 note: \
 MA-Q2L-0.0625 represents training and validation on the sub-dataset  \
 MA-Q2L-1 represents training and validation on the complete dataset
