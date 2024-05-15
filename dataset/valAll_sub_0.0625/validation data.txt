@@ -1,1 +1,1 @@
-
+You can obtain sub datasets by segmenting the complete dataset from the data in SewerML_Val_sub_0.0625.csv
