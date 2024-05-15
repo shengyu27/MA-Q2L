@@ -83,8 +83,9 @@ python main.py \
 
 ## Val/Test
 ```sh
+##step1:
 python infer.py  --checkpoint /path/to/your/checkpoint --dataset_size 1 --dataset_dir /dataset --output /dir/to/ouput
-
+##step2:
 python calculate_results.py --split val --score_path /path/to/infer --gt_path /path/to/datset --val_csv_name name
 ```
 
