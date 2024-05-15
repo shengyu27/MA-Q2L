@@ -1,1 +1,1 @@
-
+You can download the images and the SewerML_train.csv form the [this](https://vap.aau.dk/sewer-ml/).
