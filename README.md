@@ -92,8 +92,8 @@ python calculate_results.py --split val --score_path /path/to/infer --gt_path /p
 ## Download pretrained models.
 | Modelname     | F1-score(%) | F2-score(%) | link(Google drive) | 
 |---------------|-------------|-------------|------------| 
-| MA-Q2L-0.0625 | 89.56       | 67.03       | coming     |
-| MA-Q2L-1      | 92.58       | 73.15       | coming     |
+| MA-Q2L-0.0625 | 89.56       | 67.03       | [link](https://drive.google.com/file/d/1ngPdoqRUhFajnQY3iMyBJDWWN9kPL9Fo/view?usp=drive_link)     |
+| MA-Q2L-1      | 92.58       | 73.15       | [link](https://drive.google.com/file/d/1m9fR1XLqUFATIs14bA9gXwcEsAp03KB6/view?usp=drive_link)     |
 
 
 note: \
