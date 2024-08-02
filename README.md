@@ -3,7 +3,7 @@
 After the paper is fully accepted, we will publicly release all the code, including the training code.
 
 # Introdunction
-This is the official implementation of the paper "Multi-label Sewer Pipe Defect Recognition with Mask Attention Feature Enhancement and Label Correlation Learning".
+This is the official implementation of the paper "[Multi-label Sewer Pipe Defect Recognition with Mask Attention Feature Enhancement and Label Correlation Learning](http://arxiv.org/abs/2408.00489)".
 ## Abstract
 
 The coexistence of multiple defect categories as well as the substantial class imbalance problem significantly impair the performance of the detection of sewer pipeline defects. To solve this problem, a multi-label pipe defect recognition method is proposed based on mask attention guided feature enhancement and label correlation learning. The proposed method can achieve current approximate state-of-the-art classification performance using just 1/16 of the Sewer-ML training dataset and exceeds the current best method by 11.87\% in terms of F2 metric on the full dataset, while also proving the superiority of the model. The major contribution of this study is to the development of a more efficient model for identifying and locating multiple defects in sewer pipe images for a more accurate sewer pipeline condition assessment. Moreover, by employing class activation maps, our method can accurately pinpoint multiple defect categories in the image which demonstrates a strong model interpretability.
