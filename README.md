@@ -102,7 +102,25 @@ MA-Q2L-0.0625 represents training and validation on the sub-dataset  \
 MA-Q2L-1 represents training and validation on the complete dataset
 
 
+# Citation
+If you find our work useful in your research, please consider citing.
+```
+@article{doi:10.1061/JCCEE5.CPENG-5971,
+author = {Xin Zuo  and Yu Sheng  and Jifeng Shen  and Yongwei Shan },
+title = {Multilabel Sewer Pipe Defect Recognition with Mask Attention Feature Enhancement and Label Correlation Learning},
+journal = {Journal of Computing in Civil Engineering},
+volume = {39},
+number = {1},
+pages = {04024050},
+year = {2025},
+doi = {10.1061/JCCEE5.CPENG-5971},
 
+URL = {https://ascelibrary.org/doi/abs/10.1061/JCCEE5.CPENG-5971},
+eprint = {https://ascelibrary.org/doi/pdf/10.1061/JCCEE5.CPENG-5971}
+,
+    abstract = { The coexistence of multiple defect categories as well as the substantial class imbalance problem significantly impair the detection of sewer pipeline defects. To solve this problem, a multilabel pipe defect recognition method is proposed based on mask attention-guided feature enhancement and label correlation learning. The proposed method can achieve current approximate state-of-the-art classification performance using just 1/16 of the Sewer-ML training data set and exceeds the current best method by 11.87\% in terms of F2 metric on the full data set, while also proving the superiority of the model. The major contribution of this study is the development of a more efficient model for identifying and locating multiple defects in sewer pipe images for a more accurate sewer pipeline condition assessment. Moreover, by employing class activation maps, our method can accurately pinpoint multiple defect categories in the image, demonstrating strong model interpretability. }
+}
+```
 
 
 
